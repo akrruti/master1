@@ -1,4 +1,4 @@
 <?php
-  echo "Hello World!";
-  echo "PHP is so easy!";
+  print "Hello World!";
+  print "PHP is so easy!";
 ?>
